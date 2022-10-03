@@ -3,7 +3,7 @@ The project achieves goals:
 1. Modular concept implememt not only in hardware but also software by using Object-Oriented Programming (OOP)
 2. Reduece at least 50% the redundant data upload to Cloud(Google firebase)
 3. Easy to update and maintain the script to reduce the design period
-4. Created a platform to operate at lest 7 devices(tuning FM, mute, unmute, switch page...etc.)
+4. Created a platform to operate at least 7 devices(tuning FM, mute, unmute, switch page...etc.)
 5. Designed I2C OLED display to show status
 6. Created the local Arduino Nano 33 IoT to request the data from different servers
 7. Designed Real-Time Operating System
